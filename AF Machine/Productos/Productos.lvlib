@@ -4,7 +4,14 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Agua Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Agua Msg/Agua Msg.lvclass"/>
+		<Item Name="Comprar Product Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Comprar Product Msg/Comprar Product Msg.lvclass"/>
+		<Item Name="Galleta Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Galleta Msg/Galleta Msg.lvclass"/>
+		<Item Name="Initialize Product Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Initialize Product Msg/Initialize Product Msg.lvclass"/>
 		<Item Name="Open products FP in SP Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Open products FP in SP Msg/Open products FP in SP Msg.lvclass"/>
+		<Item Name="Papas Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Papas Msg/Papas Msg.lvclass"/>
+		<Item Name="Refresco Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Refresco Msg/Refresco Msg.lvclass"/>
+		<Item Name="Update Product Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Update Product Msg/Update Product Msg.lvclass"/>
 	</Item>
 	<Item Name="Productos.lvclass" Type="LVClass" URL="../Productos.lvclass"/>
 </Library>
