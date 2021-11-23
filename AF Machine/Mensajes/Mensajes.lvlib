@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="creditos Msg.lvclass" Type="LVClass" URL="../../Mensajes Messages/creditos Msg/creditos Msg.lvclass"/>
+		<Item Name="Initialize Msg.lvclass" Type="LVClass" URL="../../Mensajes Messages/Initialize Msg/Initialize Msg.lvclass"/>
 		<Item Name="Open message FP in SP Msg.lvclass" Type="LVClass" URL="../../Mensajes Messages/Open message FP in SP Msg/Open message FP in SP Msg.lvclass"/>
 	</Item>
 	<Item Name="Mensajes.lvclass" Type="LVClass" URL="../Mensajes.lvclass"/>

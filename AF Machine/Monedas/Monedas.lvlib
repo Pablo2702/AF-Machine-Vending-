@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="moneda 1 Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/moneda 1 Msg/moneda 1 Msg.lvclass"/>
+		<Item Name="moneda 2 Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/moneda 2 Msg/moneda 2 Msg.lvclass"/>
+		<Item Name="moneda 5 Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/moneda 5 Msg/moneda 5 Msg.lvclass"/>
+		<Item Name="moneda 10 Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/moneda 10 Msg/moneda 10 Msg.lvclass"/>
 		<Item Name="Open FP in SP Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/Open FP in SP Msg/Open FP in SP Msg.lvclass"/>
 	</Item>
 	<Item Name="Monedas.lvclass" Type="LVClass" URL="../Monedas.lvclass"/>
