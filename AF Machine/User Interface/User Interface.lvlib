@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Comprar UI Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Comprar UI Msg/Comprar UI Msg.lvclass"/>
+		<Item Name="Initialize UI Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Initialize UI Msg/Initialize UI Msg.lvclass"/>
 		<Item Name="Monedas Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Monedas Msg/Monedas Msg.lvclass"/>
 		<Item Name="Productos Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Productos Msg/Productos Msg.lvclass"/>
 		<Item Name="Update credit Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Update credit Msg/Update credit Msg.lvclass"/>
