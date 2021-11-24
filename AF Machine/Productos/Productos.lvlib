@@ -10,8 +10,13 @@
 		<Item Name="Initialize Product Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Initialize Product Msg/Initialize Product Msg.lvclass"/>
 		<Item Name="Open products FP in SP Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Open products FP in SP Msg/Open products FP in SP Msg.lvclass"/>
 		<Item Name="Papas Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Papas Msg/Papas Msg.lvclass"/>
+		<Item Name="Read Inventory Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Read Inventory Msg/Read Inventory Msg.lvclass"/>
 		<Item Name="Refresco Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Refresco Msg/Refresco Msg.lvclass"/>
 		<Item Name="Update Product Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Update Product Msg/Update Product Msg.lvclass"/>
+		<Item Name="Write agua Inv Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Write agua Inv Msg/Write agua Inv Msg.lvclass"/>
+		<Item Name="Write galleta Inv Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Write galleta Inv Msg/Write galleta Inv Msg.lvclass"/>
+		<Item Name="Write papa Inv Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Write papa Inv Msg/Write papa Inv Msg.lvclass"/>
+		<Item Name="Write refre Inv Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Write refre Inv Msg/Write refre Inv Msg.lvclass"/>
 	</Item>
 	<Item Name="Productos.lvclass" Type="LVClass" URL="../Productos.lvclass"/>
 </Library>
